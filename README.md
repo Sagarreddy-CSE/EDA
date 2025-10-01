@@ -1,2 +1,13 @@
-# EDA
-A collection of Exploratory Data Analysis (EDA) projects showcasing data cleaning, visualization, and statistical insights across diverse datasets. Each project demonstrates structured workflows, Python-based analysis (Pandas, NumPy, Matplotlib, Seaborn, etc.), and key findings to support better data-driven decision-making
+# 🧑‍💻 Exploratory Data Analysis (EDA) Projects  
+
+Welcome to my collection of **Exploratory Data Analysis (EDA)** projects!  
+This repository contains hands-on projects where I analyse different datasets, perform data cleaning, visualisation, and statistical exploration to uncover meaningful insights.  
+
+---
+
+## 📌 Overview  
+- Perform data cleaning and preprocessing  
+- Explore datasets with descriptive statistics  
+- Visualise trends, distributions, and correlations  
+- Highlight insights through structured analysis  
+- Use Python libraries like **Pandas, NumPy, Matplotlib, Seaborn, Plotly**  
